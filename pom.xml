@@ -10,9 +10,9 @@
 	</parent>
 
 	<groupId>udea.edu.co.sistemagestion</groupId>
-	<artifactId>gestionweb</artifactId>
+	<artifactId>sisges</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gestionWeb</name>
+	<name>sisges</name>
 	<description>Sistema Gestion Ingresos-Egresos</description>
 	<properties>
 		<java.version>17</java.version>
