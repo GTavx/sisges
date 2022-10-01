@@ -20,7 +20,7 @@ public class MainController {
     @Autowired
     ServicesEmployee servicesEmployee;
 
-    @GetMapping("/")
+    @GetMapping(value="/")
     public String index(Model model, @AuthenticationPrincipal OidcUser principal) {
         return "index";
     }
