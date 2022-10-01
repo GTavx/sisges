@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>udea.edu.co.sistemagestion</groupId>
-	<artifactId>gestion</artifactId>
+	<artifactId>gestionweb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gestionWeb</name>
 	<description>Sistema Gestion Ingresos-Egresos</description>
